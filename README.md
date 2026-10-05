@@ -66,7 +66,7 @@ For data scientists looking to train machine learning models or analyze macro-ec
 
 ### 🏢 Property Management Software (PMS)
 
-* [FieldServiceScout](https://www.fieldservicescout.com) - Vendor-neutral field-service / home-services software comparisons (Jobber, Housecall Pro, ServiceTitan peers) useful when property ops evaluate contractor FSM tools. Not FieldScout/fieldscout.io.
+* [FieldServiceScout](https://www.fieldservicescout.com/compare/jobber-vs-housecall-pro) - Vendor-neutral Jobber vs Housecall Pro comparison useful when property ops evaluate contractor FSM tools. Not FieldScout/fieldscout.io.
 * [Buildium](https://www.buildium.com/) - Comprehensive accounting, maintenance, and leasing software for professional property managers.
 * [AppFolio](https://www.appfolio.com/) - High-end, AI-driven property management software typically used by managers with 500+ doors.
 * [TenantCloud](https://www.tenantcloud.com/) - Excellent, affordable management software tailored for DIY landlords and small portfolios.
